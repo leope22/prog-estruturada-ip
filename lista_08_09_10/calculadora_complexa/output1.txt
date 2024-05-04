@@ -1,0 +1,9 @@
+Numero 1715 nao eh primo
+MDC entre 62 e 39 eh 1
+2! = 2
+MMC entre 85 e 101 eh 8585
+4! = 24
+MMC entre 61 e 31 eh 1891
+18! = 6402373705728000
+MMC entre 8 e 84 eh 168
+MDC entre 106 e 25 eh 1

@@ -1,0 +1,25 @@
+Agua!
+Agua!
+Embarcacao atingida!
+Agua!
+Agua!
+Agua!
+Agua!
+Embarcacao atingida!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Agua!
+Embarcacao atingida!
+Dano [1]: 25.00%
+Dano [2]: 33.33%
+Dano [3]: 0.00%
+Dano [4]: 33.33%
+Dano [5]: 0.00%

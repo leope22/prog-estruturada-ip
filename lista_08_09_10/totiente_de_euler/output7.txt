@@ -1,0 +1,4 @@
+MDC(117,565) = 1
+Phi(565) = 448
+117 ^ 448 (mod 565) = 1
+Os numeros sao validos para o teorema.

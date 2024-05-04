@@ -1,0 +1,10 @@
+MDC entre 74 e 95 eh 1
+MMC entre 93 e 6 eh 186
+MDC entre 110 e 69 eh 1
+18! = 6402373705728000
+4! = 24
+MDC entre 131 e 19 eh 1
+12! = 479001600
+Numero 911 eh primo
+MDC entre 143 e 86 eh 1
+MDC entre 112 e 105 eh 7

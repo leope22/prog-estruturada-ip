@@ -1,0 +1,16 @@
+Aprovado
+Rejeitado
+Rejeitado
+Rejeitado
+Aprovado
+Resultados:
+id:711 vencimento:2024 emissor:A genero:O
+Aprovado
+id:436 vencimento:2023 emissor:K genero:X
+Rejeitado
+id:799 vencimento:2020 emissor:S genero:X
+Rejeitado
+id:337 vencimento:2020 emissor:B genero:M
+Rejeitado
+id:744 vencimento:2021 emissor:S genero:O
+Aprovado

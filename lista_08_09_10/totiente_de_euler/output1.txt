@@ -1,0 +1,4 @@
+MDC(60,686) = 2
+Phi(686) = 294
+60 ^ 294 (mod 686) = 344
+Os numeros nao sao validos para o teorema.

@@ -1,0 +1,10 @@
+MDC entre 11 e 92 eh 1
+MMC entre 130 e 117 eh 1170
+MDC entre 50 e 10 eh 10
+MMC entre 40 e 68 eh 680
+11! = 39916800
+3! = 6
+MMC entre 31 e 54 eh 1674
+11! = 39916800
+MMC entre 36 e 64 eh 576
+MDC entre 77 e 34 eh 1

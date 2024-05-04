@@ -1,0 +1,19 @@
+Aprovado
+Rejeitado
+Rejeitado
+Rejeitado
+Rejeitado
+Aprovado
+Resultados:
+id:535 vencimento:2022 emissor:S genero:O
+Aprovado
+id:447 vencimento:2020 emissor:B genero:O
+Rejeitado
+id:150 vencimento:2019 emissor:S genero:F
+Rejeitado
+id:381 vencimento:2020 emissor:K genero:F
+Rejeitado
+id:139 vencimento:2020 emissor:S genero:X
+Rejeitado
+id:326 vencimento:2023 emissor:S genero:M
+Aprovado

@@ -1,0 +1,7 @@
+Jogador 1 venceu!
+Jogador 2 venceu!
+Empate!
+Jogador 1 venceu!
+Jogador 1 venceu!
+Jogador 1 venceu a partida!
+Placar final: J1 - 3, J2 - 1

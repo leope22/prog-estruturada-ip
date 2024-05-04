@@ -1,0 +1,11 @@
+Numero 1022 nao eh primo
+MMC entre 46 e 78 eh 1794
+Numero 1064 nao eh primo
+12! = 479001600
+24! = 10611558092380307456
+MMC entre 88 e 43 eh 3784
+MMC entre 134 e 100 eh 6700
+MDC entre 13 e 148 eh 1
+MMC entre 88 e 86 eh 3784
+Numero 1097 eh primo
+10! = 3628800

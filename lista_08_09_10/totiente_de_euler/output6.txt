@@ -1,0 +1,4 @@
+MDC(30,622) = 2
+Phi(622) = 310
+30 ^ 310 (mod 622) = 312
+Os numeros nao sao validos para o teorema.

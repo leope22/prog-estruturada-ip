@@ -1,0 +1,5 @@
+O Teorema do macaco infinito afirma que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito ira quase certamente criar um texto qualquer escolhido, como por exemplo a obra completa de William Shakespeare.
+
+E possivel tambem pensar que, com infinitos macacos infinitos, algum deles ira quase certamente criar um texto qualquer escolhido como primeiro texto a ser digitado.
+
+Neste contexto, "quase certamente" e um termo matematico com um significado preciso, enquanto que o "macaco" e apenas uma imagem, nao um simio verdadeiro; trata-se de uma metafora para um dispositivo abstracto que produza uma sequencia aleatoria de letras ad infinitum. O teorema ilustra os perigos do raciocinio sobre o infinito ao imaginar um numero muito grande mas finito, e vice versa. A idade do universo e diminuida relativamente pelo tempo que levaria a um macaco para obter um texto igual ao Hamlet, de modo que num sentido fisico tal nunca aconteceria.

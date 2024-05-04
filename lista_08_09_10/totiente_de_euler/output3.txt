@@ -1,0 +1,4 @@
+MDC(78,520) = 26
+Phi(520) = 192
+78 ^ 192 (mod 520) = 416
+Os numeros nao sao validos para o teorema.

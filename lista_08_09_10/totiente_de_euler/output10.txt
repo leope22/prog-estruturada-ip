@@ -1,0 +1,4 @@
+MDC(31,584) = 1
+Phi(584) = 288
+31 ^ 288 (mod 584) = 1
+Os numeros sao validos para o teorema.

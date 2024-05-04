@@ -1,0 +1,16 @@
+Rejeitado
+Rejeitado
+Rejeitado
+Rejeitado
+Aprovado
+Resultados:
+id:491 vencimento:2023 emissor:S genero:X
+Rejeitado
+id:997 vencimento:2024 emissor:K genero:X
+Rejeitado
+id:887 vencimento:2020 emissor:S genero:O
+Rejeitado
+id:920 vencimento:2019 emissor:K genero:O
+Rejeitado
+id:931 vencimento:2024 emissor:S genero:M
+Aprovado

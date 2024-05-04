@@ -1,0 +1,4 @@
+MDC(46,456) = 2
+Phi(456) = 144
+46 ^ 144 (mod 456) = 400
+Os numeros nao sao validos para o teorema.

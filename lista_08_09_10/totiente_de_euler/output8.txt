@@ -1,0 +1,4 @@
+MDC(27,79) = 1
+Phi(79) = 78
+27 ^ 78 (mod 79) = 1
+Os numeros sao validos para o teorema.

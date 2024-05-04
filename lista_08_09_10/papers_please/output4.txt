@@ -1,0 +1,10 @@
+Aprovado
+Aprovado
+Rejeitado
+Resultados:
+id:865 vencimento:2023 emissor:K genero:O
+Aprovado
+id:887 vencimento:2024 emissor:K genero:F
+Aprovado
+id:62 vencimento:2024 emissor:K genero:X
+Rejeitado

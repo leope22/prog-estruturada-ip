@@ -1,0 +1,11 @@
+8! = 40320
+MDC entre 45 e 124 eh 1
+Numero 308 nao eh primo
+Numero 1061 eh primo
+Numero 494 nao eh primo
+MDC entre 84 e 70 eh 14
+MMC entre 71 e 122 eh 8662
+Numero 395 nao eh primo
+22! = 17196083355034583040
+MMC entre 114 e 51 eh 1938
+MMC entre 138 e 26 eh 1794

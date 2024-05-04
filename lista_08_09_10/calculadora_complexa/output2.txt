@@ -1,0 +1,8 @@
+Numero 1223 eh primo
+Numero 1298 nao eh primo
+Numero 2180 nao eh primo
+MMC entre 59 e 115 eh 6785
+17! = 355687428096000
+MDC entre 64 e 27 eh 1
+21! = 14197454024290336768
+MDC entre 123 e 91 eh 1

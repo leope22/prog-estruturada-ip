@@ -1,0 +1,4 @@
+MDC(69,2) = 1
+Phi(2) = 1
+69 ^ 1 (mod 2) = 1
+Os numeros sao validos para o teorema.

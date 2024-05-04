@@ -1,0 +1,16 @@
+Rejeitado
+Rejeitado
+Aprovado
+Rejeitado
+Rejeitado
+Resultados:
+id:150 vencimento:2023 emissor:K genero:X
+Rejeitado
+id:117 vencimento:2023 emissor:B genero:M
+Rejeitado
+id:579 vencimento:2024 emissor:A genero:M
+Aprovado
+id:744 vencimento:2019 emissor:S genero:F
+Rejeitado
+id:832 vencimento:2023 emissor:B genero:X
+Rejeitado

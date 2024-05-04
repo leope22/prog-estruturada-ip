@@ -1,0 +1,9 @@
+Jogador 2 venceu!
+Entrada inválida!
+Entrada inválida!
+Entrada inválida!
+Jogador 2 venceu!
+Empate!
+Jogador 2 venceu!
+Jogador 2 venceu a partida!
+Placar final: J1 - 0, J2 - 3

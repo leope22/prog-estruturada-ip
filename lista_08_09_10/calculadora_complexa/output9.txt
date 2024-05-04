@@ -1,0 +1,7 @@
+Numero 1145 nao eh primo
+MMC entre 89 e 56 eh 4984
+MMC entre 33 e 76 eh 2508
+Numero 8 nao eh primo
+23! = 8128291617894825984
+Numero 1259 eh primo
+MMC entre 147 e 13 eh 1911

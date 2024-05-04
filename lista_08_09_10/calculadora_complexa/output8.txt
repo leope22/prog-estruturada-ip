@@ -1,0 +1,6 @@
+MMC entre 71 e 112 eh 7952
+MMC entre 102 e 34 eh 102
+Numero 539 nao eh primo
+MDC entre 59 e 46 eh 1
+MMC entre 54 e 136 eh 3672
+Numero 764 nao eh primo

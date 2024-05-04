@@ -1,0 +1,4 @@
+MDC(103,75) = 1
+Phi(75) = 40
+103 ^ 40 (mod 75) = 1
+Os numeros sao validos para o teorema.

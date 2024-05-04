@@ -1,0 +1,9 @@
+Numero 2282 nao eh primo
+MDC entre 59 e 44 eh 1
+13! = 6227020800
+MDC entre 22 e 10 eh 2
+12! = 479001600
+MMC entre 69 e 38 eh 2622
+15! = 1307674368000
+MDC entre 95 e 135 eh 5
+MMC entre 59 e 106 eh 6254

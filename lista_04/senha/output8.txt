@@ -1,0 +1,5 @@
+senha inválida!
+pendências: 3 4
+senha inválida!
+pendências: 3
+senha forte!

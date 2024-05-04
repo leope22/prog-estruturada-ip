@@ -1,0 +1,4 @@
+MDC(52,643) = 1
+Phi(643) = 642
+52 ^ 642 (mod 643) = 1
+Os numeros sao validos para o teorema.

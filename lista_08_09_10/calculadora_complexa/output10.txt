@@ -1,0 +1,10 @@
+MDC entre 94 e 5 eh 1
+16! = 20922789888000
+MDC entre 139 e 141 eh 1
+MMC entre 68 e 136 eh 136
+MDC entre 6 e 96 eh 6
+Numero 2153 eh primo
+MDC entre 42 e 85 eh 1
+Numero 1658 nao eh primo
+Numero 1376 nao eh primo
+Numero 1895 nao eh primo

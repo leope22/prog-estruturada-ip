@@ -1,0 +1,4 @@
+Vogais = 132
+Consoantes = 116
+Especiais = 9
+Palavras = 52

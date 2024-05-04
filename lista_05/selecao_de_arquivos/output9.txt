@@ -1,0 +1,4 @@
+O arquivo 2 foi selecionado.
+O arquivo 3 foi selecionado.
+O arquivo 8 foi selecionado.
+O arquivo 9 foi selecionado.

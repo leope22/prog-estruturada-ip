@@ -1,0 +1,10 @@
+Aprovado
+Rejeitado
+Rejeitado
+Resultados:
+id:194 vencimento:2024 emissor:A genero:M
+Aprovado
+id:1096 vencimento:2020 emissor:A genero:F
+Rejeitado
+id:634 vencimento:2019 emissor:B genero:M
+Rejeitado
